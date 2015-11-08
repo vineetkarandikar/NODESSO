@@ -1,0 +1,18 @@
+{
+  "name": "OMS-ALIENS-SSO",
+  "version": "1.1.1",
+  "description": "Open Source Implemenation of SSO in Node JS",
+  "author": {
+    "name": "Aliens",
+    "email": "omsalienstechnologies@gmail.com"
+  },
+  "dependencies": {
+    "config": "^1.15.0",
+    "redis": "^0.12.1",
+    "winston": "^1.0.1",
+    "express": "^4.13.3",
+    "randomstring": "^1.1.0",
+    "log": "^1.4.0",
+    "async": "^1.4.2"
+  }
+}
