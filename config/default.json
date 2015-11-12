@@ -3,5 +3,6 @@
     "host": "localhost",
     "port": "6379",
     "options": ""
-  }
+  },
+  "tokenExpiry": "3600"
 }
